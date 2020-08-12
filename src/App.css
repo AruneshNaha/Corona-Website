@@ -1,0 +1,14 @@
+.container{
+  width: 300px;
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.custom-card{
+  height: 70px;
+}
+
+.container-country{
+  width: 200px;
+  height: 200px;
+}
